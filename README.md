@@ -41,8 +41,8 @@ I'm a freshman at Tappan Zee High School, embarking on an exciting journey into 
 
 ## 📚 Learning Journey
 
-- 🐍 Completed Python basics course on Codecademy
-- ☕ Started Java fundamentals on freeCodeCamp
+- 🐍 Completed Python basics course on YouTube (BroCode 🐐)
+- ☕ Started Java fundamentals on YouTube (BroCode 🐐)
 - 🧠 Exploring AI concepts through online resources
 
 
