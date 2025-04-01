@@ -11,7 +11,7 @@
 I'm a freshman at Tappan Zee High School, embarking on an exciting journey into the world of coding. My passion for technology and problem-solving drives me to explore the vast landscape of programming, with a focus on Python and Java.
 
 ### 🚀 Current Focus
-- Mastering Python fundamentals
+- Mastering intermediate/advanced Python skills
 - Exploring Java basics
 - Diving into the world of AI and machine learning
 
