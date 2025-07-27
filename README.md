@@ -32,7 +32,7 @@
 
 ## 👋 **Hello, World!**
 
-I'm a freshman at **Tappan Zee High School**, embarking on an exciting journey into the world of coding. My passion for technology and problem-solving drives me to explore the vast landscape of programming, with a focus on **Python** and **Java**.
+I'm a freshman at **Tappan Zee High School**, on an exciting coding journey focused on Python and Java. I love challenges, learning new tools, and building creative projects—always seeking to level up as a developer.
 
 ---
 
@@ -46,14 +46,22 @@ I'm a freshman at **Tappan Zee High School**, embarking on an exciting journey i
 ---
 
 ### 🚀 **Current Focus**
-- 🐍 Mastering intermediate & advanced Python skills
-- ☕ Deepening Java basics through practice projects
-- 🤖 Exploring artificial intelligence and machine learning
+- 🐍 Advancing Python (OOP, functional programming, automation)
+- ☕ Building projects & strengthening Java foundations
+- 🤖 Exploring AI, data science, and algorithms
 
 ### 🎯 **Goals**
-- Solve *increasingly complex coding challenges*
-- 🚩 Contribute to open-source projects
-- Build a strong foundation in computer science principles
+- Solve more complex coding challenges
+- Contribute to open-source projects
+- Build a strong computer science foundation
+
+---
+
+## 📂 **Korio Language**
+
+[Full Project: KorioLangProject](https://github.com/BrendanNg8/KorioLangProject)
+
+**Korio** is my own lightweight scripting language, focused on clean, semicolon-free syntax, strong type hints, first-class functions, higher-order tools (`map`, `filter`), and concise control flow with solid error feedback. Built in TypeScript, it’s great for hands-on learning, experimenting, and scripting in a modern, readable style.
 
 ---
 
@@ -84,9 +92,9 @@ I'm a freshman at **Tappan Zee High School**, embarking on an exciting journey i
 
 ## 📚 **Learning Journey**
 
-- 🐍 Completed Python basics course (*YouTube: BroCode 🐐*)
-- ☕ Started Java fundamentals (*YouTube: BroCode 🐐*)
-- 🧠 Exploring AI concepts through online resources
+- 🐍 Finished Python basics (BroCode)
+- ☕ Exploring Java fundamentals (BroCode)
+- 🧠 Investigating AI, ML, and open source
 
 ---
 
@@ -95,17 +103,16 @@ I'm a freshman at **Tappan Zee High School**, embarking on an exciting journey i
   
   ### How I'm Improving My Python Expertise
 
-  - Recently moved on from basics to mastering OOP principles, modules, and decorators.
-  - Building mini-projects like games, calculators, and automation tools to reinforce learning.
-  - Solving coding challenges on platforms like LeetCode.
-  - Learning best practices: code style, documentation, and code reviews.
-  - Exploring new standard libraries and powerful third-party packages (e.g., `requests`, `pandas`, `matplotlib`).
-  - Starting to use Git and GitHub to share and collaborate on code.
-  - Reading Python source code and building a habit of writing tests for my projects.
-  - Experimenting with basic AI and ML concepts using Python frameworks.
+  - Practicing object-oriented programming, decorators, and writing modular code
+  - Building real-world mini-projects (games, tools, automation)
+  - Taking on coding challenges (LeetCode, HackerRank)
+  - Learning best practices (style, documentation, testing)
+  - Exploring advanced libraries (e.g., `pandas`, `matplotlib`)
+  - Sharing/organizing projects with Git & GitHub
+  - Developing open source habits and reading others' code
+  - Experimenting with AI/ML toolkits using Python foundations
 
-  Each week, I push myself to learn a new concept or project and reflect on it. My goal is to move from 'Intermediate' to 'Advanced' by building real-world, open-source contributions.
-
+  I aim to reach "Advanced" by contributing to real repositories and crafting bigger, collaborative projects!
 </details>
 
 ---
@@ -115,3 +122,4 @@ I'm a freshman at **Tappan Zee High School**, embarking on an exciting journey i
     <img src="https://img.shields.io/badge/GitHub-Follow-1e90ff?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </div>
+
