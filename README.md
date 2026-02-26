@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <h1 align="center">
-  <span style="color:#e6c07b;">⟨ Brendan Ng ⟩</span>
+  <span style="color:#e6c07b;">🎆 Brendan Ng 🎇</span>
 </h1>
 
 <p align="center" style="color:#d4af7f;">
