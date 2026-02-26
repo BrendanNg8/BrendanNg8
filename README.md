@@ -27,11 +27,11 @@ I’ve been programming since 2023, and over time my interests have shifted from
 
 I’m especially interested in:
 
-- How programming languages are designed  
-- How interpreters evaluate expressions  
-- How environments manage scope and state  
-- How type systems enforce structure  
-- How algorithms impact performance  
+- Learning new coding languages/libraries
+- Usage of advanced math in computer algorithms  
+- How to create progamming languages
+- Real-life application of computer science
+- Development of code-to-robot application
 
 I try to approach programming with long-term thinking: clean structure, readable logic, and deliberate design choices.
 
